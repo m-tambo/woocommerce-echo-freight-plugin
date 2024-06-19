@@ -12,7 +12,7 @@
  */
 ?>
 
-<h1>General Settings for WP10YouTube Test</h1><br>
+<h1>General Settings for YouTube Test</h1><br>
 <hr>
 <div class="container" style="max-width:100%;">
   <div class="row">
