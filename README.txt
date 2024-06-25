@@ -13,6 +13,8 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
+Also contributing Malcolm Browne.
+
 A Plugin for Interfacing with Echo Global Logistics API https://www.echo.com/.
 
 A few notes about the sections above:
