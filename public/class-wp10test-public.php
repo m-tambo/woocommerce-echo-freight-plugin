@@ -73,7 +73,7 @@ class Wp10Test_Public {
 		 * class.
 		 */
 
-		wp_enqueue_style( $this->wp10test, plugin_dir_url( __FILE__ ) . 'css/wp10test-public.css', array(), $this->version, 'all' );
+		wp_enqueue_style( $this->wp10test, plugin_dir_url( __FILE__ ) . 'css/echo-public.css', array(), $this->version, 'all' );
         
 	}
 
@@ -96,7 +96,7 @@ class Wp10Test_Public {
 		 * class.
 		 */
 
-		wp_enqueue_script( $this->wp10test, plugin_dir_url( __FILE__ ) . 'js/wp10test-public.js', array( 'jquery' ), $this->version, false );
+		wp_enqueue_script( $this->wp10test, plugin_dir_url( __FILE__ ) . 'js/echo-public.js', array( 'jquery' ), $this->version, false );
         
 	}
 

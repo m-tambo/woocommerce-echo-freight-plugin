@@ -8,20 +8,20 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://wp10test.com
+ * @link              https://github.com/tambornino/woocommerce-echo-freight-plugin
  * @since             1.0.0
  * @package           Wp10Test
  *
  * @wordpress-plugin
  * Plugin Name:       WooCommerce Echo Freight
- * Plugin URI:        https://wp10test.com
+ * Plugin URI:        https://github.com/tambornino/woocommerce-echo-freight-plugin
  * Description:       A Plugin for Interfacing with Echo Global Logistics API
  * Version:           1.0.0
  * Author:            Tambo
- * Author URI:        https://wordpressin10orless.com
+ * Author URI:        https://github.com/tambornino
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       https://wp10test.com
+ * Text Domain:       https://github.com/tambornino/woocommerce-echo-freight-plugin
  * Domain Path:       /languages
  */
 
