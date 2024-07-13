@@ -22,7 +22,7 @@
  * @link       https://github.com/tambornino/woocommerce-echo-freight-plugin
  * @since      1.0.0
  *
- * @package    Wp10Test
+ * @package    Echo
  */
 
 // If uninstall not called from WordPress, then exit.
